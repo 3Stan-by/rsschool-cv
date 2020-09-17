@@ -41,7 +41,8 @@
  ##### Language skills
  * English - B2
  * Russian - Native
-  
+ * Polish - B2
+ 
  ##### Special skills
  * Driving License (Category B)
  * Sertificates: Dynaco, Festo, Siemens
