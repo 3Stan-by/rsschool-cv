@@ -19,7 +19,7 @@
   - You can write me to mail.
   
  ##### Summary   
- I am begginer. 
+ I am beginner. 
  
  ##### Career 
  
